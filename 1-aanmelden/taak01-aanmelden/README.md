@@ -11,16 +11,8 @@ Voordat de docent je licentie kan activeren moet je eerst een keer inloggen bij 
 1. Ik meld mij aan bij digit-MBO en vraag een licentie aan
 
 ## Opdracht
-Kies wat voor jou van toepassing is
 
-**1. Je hebt nog nooit het keuzedeel Digitale Vaardigheden gedaan**
 >Open de pdf [KDDV-licentie-aanvragen.pdf](./files/KDDV-licentie-aanvragen.pdf) en volg de stappen.
-> 
-
-**2. Je hebt het keuzedeel Digitale Vaardigheden al een keer gedaan (bijvoorbeels als je doubleur bent).**
-
->Open de pdf [KDDV-licentie-overzetten.pdf](./files/KDDV-licentie-overzetten.pdf) en volg de stappen.
-> 
 
 ## Eindresultaat
 Een geactiveerde licentie binnen Digit-MBO
