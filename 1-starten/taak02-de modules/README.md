@@ -14,7 +14,9 @@
 
 ![kies de juiste methode](./images/kies_gev.PNG)  
 
-3. Klik op kerntaak 1 en klik onderin het scherm op het pijltje naast 2019 
+3. Klik op kerntaak 1 en klik onderin het scherm op het pijltje naast 2019  
+
+
 ![bekijk de modules](./images/bekijk-modules.PNG)
 
 4. Bekijk de verschillende modules en opdrachten in kerntaak 1 door op de hoofdstukken te klikken  
