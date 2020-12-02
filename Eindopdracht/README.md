@@ -1,19 +1,19 @@
 # kd-digitale-vaardigheden-1 - EINDOPDRACHT
 
 ## Uitleg
-> Om te kunnen oefenen voor het examen zijn er verschillende modules beschikbaar in Digit-MBO.  
-> **Je moet zelf testen welke modules je nodig hebt om het examen te halen.**  
-> Sommige dingen weet je misschien al en sommige dingen niet.
+**Je moet zelf testen welke hoofdstukken je moet maken om de Eindopdracht KT1 toets te halen.**
 
-1. Door middel van oefen toetsen kun je zien van welke modules je nog moet oefenen.
-2. Voor digitale vaardigheden krijg je meerdere modules, dit is module 1.  
-3. De eindopdracht van de modules zal bestaan uit het halen van de toetsen.  
-4. De eindopdracht van de laatste module is het halen van je proefexamen.
+## Als eindopdracht moet je de toets:
+1. Minimaal poging 1 - toets KT1 gev 1-8 gedaan hebben. 
+2. De toets Eindopdracht KT1 gehaald hebben (> 75% score).
 
-## Opdrachten
-1. Open de link: [https://digit-mbo.nl/student/tests/](https://digit-mbo.nl/student/tests/)
-2. 
+## Werkwijze
+1. Open de link: [https://digit-mbo.nl/student/tests/](https://digit-mbo.nl/student/tests/).
+2. Start de toets Eindopdracht KT1.
+3. Heb je de toets gehaald vraag dan een eindgesprek aan.
+4. Lukt het niet de toets te halen maak dan eerst de toetsen Poging 2 en/of Poging 3 en oefen de hoofdstukken die je nog onvoldoende beheerst.  
 
+> Heb je alle openstaande toetsen gedaan behalve de Eindopdracht toets en heb je meer oefentoetsen nodig maak dan een hulpvraag aan in eagledev.
 
 ## Leerdoelden
 1. Je leert kennis en overzicht van devices, software en systemen;
