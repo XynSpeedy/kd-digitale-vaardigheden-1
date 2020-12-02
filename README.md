@@ -10,8 +10,8 @@ Dit keuzedeel wordt aan het einde van dit schooljaar afgerond met een examen.
 De resultaten van dit examen komen op je diploma te staan. 
 
 ## Opdrachten
-> Om te kunnen oefenen voor het examen zijn er verschillende modules beschikbaar in Digit-MBO.  
-> **Je moet zelf testen welke modules je nodig hebt om het examen te halen.**  
+> Om te kunnen oefenen voor het examen zijn er verschillende modules (kerntaak 1 t/m 3) beschikbaar in Digit-MBO.  
+> **Je moet zelf testen welke modules je moet oefenen hebt om het examen te halen.**  
 > Sommige dingen weet je misschien al en sommige dingen niet.
 > Deze eerste module van digitale vaardigheden gaat over Kerntaak 1, de vervolgdelen behandelen Kerntaak2 en Kerntaak3.
 
