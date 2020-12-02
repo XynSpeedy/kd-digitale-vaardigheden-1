@@ -13,6 +13,7 @@ De resultaten van dit examen komen op je diploma te staan.
 > Om te kunnen oefenen voor het examen zijn er verschillende modules beschikbaar in Digit-MBO.  
 > **Je moet zelf testen welke modules je nodig hebt om het examen te halen.**  
 > Sommige dingen weet je misschien al en sommige dingen niet.
+> Deze eerste module van digitale vaardigheden gaat over Kerntaak 1, de vervolgdelen behandelen Kerntaak2 en Kerntaak3.
 
 1. Door middel van oefentoetsen kun je zien van welke modules je nog moet oefenen.
 2. Voor digitale vaardigheden krijg je meerdere eagledev modules, dit is module 1.  
