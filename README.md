@@ -14,8 +14,8 @@ De resultaten van dit examen komen op je diploma te staan.
 > **Je moet zelf testen welke modules je nodig hebt om het examen te halen.**  
 > Sommige dingen weet je misschien al en sommige dingen niet.
 
-1. Door middel van oefen toetsen kun je zien van welke modules je nog moet oefenen.
-2. Voor digitale vaardigheden krijg je meerdere modules, dit is module 1.  
+1. Door middel van oefentoetsen kun je zien van welke modules je nog moet oefenen.
+2. Voor digitale vaardigheden krijg je meerdere eagledev modules, dit is module 1.  
 3. De eindopdracht van de modules zal bestaan uit het halen van de toetsen.  
 4. De eindopdracht van de laatste module is het halen van je proefexamen.
 

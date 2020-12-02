@@ -5,14 +5,12 @@
 > **Je moet zelf testen welke modules je nodig hebt om het examen te halen.**  
 > Sommige dingen weet je misschien al en sommige dingen niet.
 
-1. Door middel van oefen toetsen kun je zien van welke modules je nog moet oefenen.
-2. Voor digitale vaardigheden krijg je meerdere modules, dit is module 1.  
-3. De eindopdracht van de modules zal bestaan uit het halen van de toetsen.  
-4. De eindopdracht van de laatste module is het halen van je proefexamen.
-
 ## Opdrachten
-1. Open de link: [https://digit-mbo.nl/student/tests/](https://digit-mbo.nl/student/tests/)
-2. Bekijk de pdf om de te nemen stappen te bekijken
+1. Open de link: [https://digit-mbo.nl/student/tests/](https://digit-mbo.nl/student/tests/).
+1. Door middel van oefentoetsen kun je zien van welke modules je nog moet oefenen.
+2. Ga naar [https://digit-mbo.nl/student/tests/] (https://digit-mbo.nl/student/tests/).
+3. Kies de eerste oefentoets
+![kies de eerste oefentoets](./images/oefentoets1.PNG) 
 
 
 ## Leerdoelden
