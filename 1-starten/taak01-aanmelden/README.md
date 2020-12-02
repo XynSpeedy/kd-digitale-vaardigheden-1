@@ -4,7 +4,7 @@
 
 Voor het keuzedeel digitalevaardigheden heb je een licentie nodig deze licentie krijg je van school.
 Voordat de docent je licentie kan activeren moet je eerst een keer inloggen bij digit-mbo.
-### **Let op! Als je al een keer het keuzedeel Digitale Vaardigheden hebt gedaan dan heb je al een licentie en dan moet je deze overzetten.**
+### **Let op! Als je al een keer het keuzedeel Digitale Vaardigheden hebt gedaan dan heb je al een licentie en hoef je alleen in te loggen!**
 
 
 ## Leerdoelen
