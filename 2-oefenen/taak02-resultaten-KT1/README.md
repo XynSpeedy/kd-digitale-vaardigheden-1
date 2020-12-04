@@ -5,6 +5,7 @@ Je hebt in de vorige taak de oefentoets Kerntaak 1 gemaakt. We gaan nu de result
 Aan de hand van de resultaten kun je zien welke hoofdstukken je nog moet oefenen.
 
 ## Opdrachten
+1. Log in op: [Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
 1. Ga naar het tabblad [Rapport - 0-metingen en toetsen](https://digit-mbo.nl/student/results/toetsen/1/). 
 2. Klik op de toets oefentoets KT1 gev 1-8 om de resultaten van je toets te bekijken per hoofdstuk.
 
@@ -20,7 +21,7 @@ Aan de hand van de resultaten kun je zien welke hoofdstukken je nog moet oefenen
 1. Je maakt de opdrachten van de hoofdstukken waar je een onvoldoende voor had.
 
 ## Eindresultaat
-Het maken van je eerste oefentoets en het bekijken van de resultaten.
+Het bekijken van de resultaten van je eerste oefentoets.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

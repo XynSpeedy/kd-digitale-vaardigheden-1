@@ -8,6 +8,7 @@
 2. De toets Eindopdracht KT1 gehaald hebben (> 75% score).
 
 ## Werkwijze
+1. Log in op: [Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
 1. Open de link: [https://digit-mbo.nl/student/tests/](https://digit-mbo.nl/student/tests/).
 2. Start de toets Eindopdracht KT1.
 3. Heb je de toets gehaald vraag dan een eindgesprek aan.
@@ -25,4 +26,4 @@
 Goede (zelfstandige) voorbereiding voor het examen Digitale Vaardigheden.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

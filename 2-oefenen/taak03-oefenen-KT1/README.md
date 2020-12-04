@@ -2,9 +2,10 @@
 
 ## Uitleg
 Je hebt in de vorige taak genoteerd voor welke hoofdstukken je een onvoldoende had.
-Heb je dit niet gedaan doe dan oefenen - taak2 nog een keer.
+Heb je dit niet gedaan doe dan taak 2 nog een keer.
 
 ## Opdrachten
+1. Log in op: [Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
 1. Ga naar de [home pagina](https://digit-mbo.nl/student/home/).
 2. Klik op de tegel Kerntaak 1.
 
@@ -21,4 +22,4 @@ Heb je dit niet gedaan doe dan oefenen - taak2 nog een keer.
 Het beheersen van de hoofdstukken in Kerntaak 1.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

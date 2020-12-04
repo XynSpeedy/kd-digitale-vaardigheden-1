@@ -26,4 +26,4 @@
 Goede (zelfstandige) voorbereiding voor het examen Digitale Vaardigheden.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

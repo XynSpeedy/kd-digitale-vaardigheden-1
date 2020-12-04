@@ -1,13 +1,12 @@
 # kd-digitale-vaardigheden-1 - OEFENEN - Taak01 - oefentoets KT1
 
 ## Uitleg
-> Om te kunnen oefenen voor het examen zijn er verschillende modules beschikbaar in Digit-MBO.  
-> **Je moet zelf testen welke hoofdstukken je nodig hebt om het examen te halen.**  
-> Sommige dingen weet je misschien al en sommige dingen niet.
-> Deze eerste module van digitale vaardigheden gaat over Kerntaak 1, de vervolgdelen behandelen Kerntaak2 en Kerntaak3
+> **Je moet zelf testen welke hoofdstukken je moet oefenen om het examen te halen.** 
+
+Door middel van oefentoetsen kun je zien van welke hoofdstukken van Kerntaak 1 je nog moet oefenen. 
 
 ## Opdrachten
-Door middel van oefentoetsen kun je zien van welke hoofdstukken van Kerntaak 1 je nog moet oefenen. 
+1. Log in op: [Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
 1. Ga naar het tabblad [Toetsen](https://digit-mbo.nl/student/tests/). 
 2. Maak de eerste oefentoets Poging 1 - KT1: 
 
@@ -20,7 +19,7 @@ Door middel van oefentoetsen kun je zien van welke hoofdstukken van Kerntaak 1 j
 1. Je maakt de eerste oefentoets van Kerntaak 1.
 
 ## Eindresultaat
-Het maken van je eerste oefentoets en het bekijken van de resultaten.
+Het maken van je eerste oefentoets.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

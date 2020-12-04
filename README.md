@@ -11,14 +11,15 @@ De resultaten van dit examen komen op je diploma te staan.
 
 ## Opdrachten
 > Om te kunnen oefenen voor het examen zijn er verschillende modules (kerntaak 1 t/m 3) beschikbaar in Digit-MBO.  
-> **Je moet zelf testen welke modules je moet oefenen om het examen te halen.**  
+> **Je moet zelf testen welke hoofdstukken van de modules je moet oefenen om het examen te halen.**  
 > Sommige dingen weet je misschien al en sommige dingen niet.
 > Deze eerste module van digitale vaardigheden gaat over Kerntaak 1, de vervolgdelen behandelen Kerntaak2 en Kerntaak3.
 
-1. Door middel van oefentoetsen kun je zien van welke modules je nog moet oefenen.
+1. Door middel van oefentoetsen kun je zien van welke hoofdstukken je nog moet oefenen.
 2. Voor digitale vaardigheden krijg je meerdere eagledev modules, dit is module 1.  
-3. De eindopdracht van de modules zal bestaan uit het halen van de toetsen.  
-4. De eindopdracht van de laatste module is het halen van je proefexamen.
+3. De eindopdracht van de modules zal bestaan uit het halen van de eindtoets.  
+4. De eindopdracht van de laatste eagledev Digitale Vaardigheden module is het halen van je proefexamen.
+5. Je moet sowieso examen doen aan het einde van het schooljaar ook al heb je de modules niet gehaald.
 
 ## Leerdoelden
 1. Je leert kennis en overzicht van devices, software en systemen;
@@ -30,4 +31,4 @@ De resultaten van dit examen komen op je diploma te staan.
 Goede (zelfstandige) voorbereiding voor het examen Digitale Vaardigheden.
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).

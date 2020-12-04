@@ -1,7 +1,7 @@
 # kd-digitale-vaardigheden-1 - AANMELDEN / LICENTIE ACTIVEREN - Taak01
 
 ## Uitleg
-Voor het keuzedeel digitalevaardigheden heb je een licentie nodig deze licentie krijg je van school.
+Voor het keuzedeel Digitale Vaardigheden heb je een licentie nodig deze licentie krijg je van school.
 Voordat de docent je licentie kan activeren moet je eerst een keer inloggen bij digit-mbo.
 ### **Let op! Als je al een keer het keuzedeel Digitale Vaardigheden hebt gedaan dan heb je al een licentie en hoef je alleen in te loggen!**
 
@@ -17,4 +17,4 @@ Een geactiveerde licentie binnen Digit-MBO
 
 
 ### Bronnen
-[Digit-MBO](https://digit-mbo.nl/).
+[Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
