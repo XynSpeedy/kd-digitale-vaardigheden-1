@@ -16,5 +16,5 @@ Voordat de docent je licentie kan activeren moet je eerst een keer inloggen bij 
 Een geactiveerde licentie binnen Digit-MBO
 
 
-### Bronnen
+### Bronnen 
 [Digit-MBO](https://entree.instruct.nl/?elo=digit-mbo).
